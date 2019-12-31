@@ -23,9 +23,9 @@
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     XPModalConfiguration *configuration = [XPModalConfiguration defaultConfiguration];
-    configuration.direction = XPModalDirectionCenter;
+    configuration.direction = XPModalDirectionRight;
     configuration.enableInteractiveTransitioning = NO;
-    configuration.autoDismissModal = NO;
+    configuration.autoDismissModal = YES;
     CGSize contentSize = CGSizeMake(200.0, CGFLOAT_MAX);
     
     ViewRightController *vc = [[ViewRightController alloc] init];
