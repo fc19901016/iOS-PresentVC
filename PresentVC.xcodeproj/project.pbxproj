@@ -162,17 +162,17 @@
 		45318E7323ACBFD600A37F63 /* Modal-ObjC */ = {
 			isa = PBXGroup;
 			children = (
-				45318E7423ACBFD600A37F63 /* XPModalPercentDrivenInteractiveTransition.h */,
+				45318E7823ACBFD600A37F63 /* UIViewController+XPModal.h */,
+				45318E7B23ACBFD600A37F63 /* UIViewController+XPModal.m */,
+				45318E7D23ACBFD600A37F63 /* XPModalAnimatedTransitioning.h */,
 				45318E7523ACBFD600A37F63 /* XPModalAnimatedTransitioning.m */,
 				45318E7623ACBFD600A37F63 /* XPModalConfiguration.h */,
-				45318E7723ACBFD600A37F63 /* XPModalPresentationController.h */,
-				45318E7823ACBFD600A37F63 /* UIViewController+XPModal.h */,
-				45318E7923ACBFD600A37F63 /* XPModalTransitioningDelegate.h */,
-				45318E7A23ACBFD600A37F63 /* XPModalPercentDrivenInteractiveTransition.m */,
-				45318E7B23ACBFD600A37F63 /* UIViewController+XPModal.m */,
-				45318E7C23ACBFD600A37F63 /* XPModalPresentationController.m */,
-				45318E7D23ACBFD600A37F63 /* XPModalAnimatedTransitioning.h */,
 				45318E7E23ACBFD600A37F63 /* XPModalConfiguration.m */,
+				45318E7423ACBFD600A37F63 /* XPModalPercentDrivenInteractiveTransition.h */,
+				45318E7A23ACBFD600A37F63 /* XPModalPercentDrivenInteractiveTransition.m */,
+				45318E7723ACBFD600A37F63 /* XPModalPresentationController.h */,
+				45318E7C23ACBFD600A37F63 /* XPModalPresentationController.m */,
+				45318E7923ACBFD600A37F63 /* XPModalTransitioningDelegate.h */,
 				45318E7F23ACBFD600A37F63 /* XPModalTransitioningDelegate.m */,
 			);
 			path = "Modal-ObjC";
