@@ -5,11 +5,11 @@
 
 | 方向 | 枚举 |
 | ------ | ------ |
-| 中弹 | XPModalDirectionCenter[PlDb] |
-| 上弹 | XPModalDirectionTop[PlGh] |
-| 右弹 | XPModalDirectionRight[PlGd] |
-| 下弹 | XPModalDirectionBottom[PlOd] |
-| 左弹 | XPModalDirectionLeft[PlMe] |
+| 中弹 | XPModalDirectionCenter |
+| 上弹 | XPModalDirectionTop |
+| 右弹 | XPModalDirectionRight |
+| 下弹 | XPModalDirectionBottom |
+| 左弹 | XPModalDirectionLeft |
 
 
 
